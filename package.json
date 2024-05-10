@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "name": "1111",
+  "version": "1.0.0",
+  "main": "i.js",
+  "scripts": {
+    "devStart": "nodemon i.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
